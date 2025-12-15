@@ -5,7 +5,7 @@
 	<groupId>com.kk</groupId>
 	<artifactId>maven-web-application-kkfunda</artifactId>
 	<packaging>war</packaging>
-	<version>1.2.3-SNAPSHOT</version>
+	<version>1.2.3</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,13 +97,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>free-styel</name>
+	      <name>free-styel-release</name>
 	      <url>http://13.127.126.65:8081/repository/free-style-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
+	      <name>free-styel</name>
 	      <url>http://13.127.126.65:8081/repository/free-style/</url>
 	    </snapshotRepository>
 	    
