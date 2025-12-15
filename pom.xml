@@ -97,8 +97,8 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+	      <name>free-style-release</name>
+	      <url>http://13.127.126.65:8081/repository/free-style-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
