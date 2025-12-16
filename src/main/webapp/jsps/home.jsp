@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marquee><h1> kkfunda DEVOPS AWS Portal </h1></marquee>
+    <marquee><h1> KKFUNDA DEVOPS AWS Portal </h1></marquee>
     <h3>Training | Development | Consulting</h3>
 </header>
 
