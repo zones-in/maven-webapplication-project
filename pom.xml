@@ -21,9 +21,9 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.207.54.73:8639/kkfunda/</sonar.host.url>
+		<sonar.host.url>http://43.205.135.201:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>password</sonar.password> 
+		<sonar.password>mohancm</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>free-style-release</name>
-	      <url>http://13.127.126.65:8081/repository/free-style-release/</url>
+	      <url>http://13.201.69.36:8081/repository/free-style-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>free-style </name>
-	      <url>http://13.127.126.65:8081/repository/free-style/</url>
+	      <url>http://13.201.69.36:8081/repository/free-style/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
